@@ -215,9 +215,8 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: "assets/images"
-    values :
-      image: true
+    path: "assets/images"
+    image: true
 
 
 ## => Plugins
